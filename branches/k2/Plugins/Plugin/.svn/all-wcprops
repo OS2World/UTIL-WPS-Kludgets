@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/99/branches/k2/Plugins/Plugin
+END
+plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/branches/k2/Plugins/Plugin/plugin.js
+END
+Plugin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/99/branches/k2/Plugins/Plugin/Plugin.pro
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/99/branches/k2/Plugins/Plugin/resources.qrc
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/99/branches/k2/Plugins/Plugin/plugin.cpp
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/branches/k2/Plugins/Plugin/plugin.h
+END

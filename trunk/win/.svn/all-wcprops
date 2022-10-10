@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/95/trunk/win
+END
+config_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/37/trunk/win/config_win.h
+END
+windowsregistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/win/windowsregistry.h
+END
+khotkey_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/71/trunk/win/khotkey_win.cpp
+END
+kserver_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/90/trunk/win/kserver_win.cpp
+END
+kwindow_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/94/trunk/win/kwindow_win.cpp
+END
+khudwindow_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/win/khudwindow_win.cpp
+END
+kpluginview_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/78/trunk/win/kpluginview_win.cpp
+END
+kipc_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/95/trunk/win/kipc_win.cpp
+END
+windowsregistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/37/trunk/win/windowsregistry.cpp
+END

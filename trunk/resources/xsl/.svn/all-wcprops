@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/94/trunk/resources/xsl
+END
+infoPlist.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/resources/xsl/infoPlist.xsl
+END
+aboutKludget.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/94/trunk/resources/xsl/aboutKludget.xsl
+END
+operaConfig.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/resources/xsl/operaConfig.xsl
+END
+aboutWidget.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/resources/xsl/aboutWidget.xsl
+END

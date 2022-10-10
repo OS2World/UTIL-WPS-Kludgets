@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/92/trunk/linux
+END
+khotkey_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/linux/khotkey_linux.cpp
+END
+kserver_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/linux/kserver_linux.cpp
+END
+kwindow_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/92/trunk/linux/kwindow_linux.cpp
+END
+kpluginview_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/50/trunk/linux/kpluginview_linux.cpp
+END
+kipc_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/91/trunk/linux/kipc_linux.cpp
+END

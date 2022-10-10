@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/branches/k2/resources/xml
+END
+widgetContextMenu_linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/99/branches/k2/resources/xml/widgetContextMenu_linux.xml
+END
+widgetContextMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/99/branches/k2/resources/xml/widgetContextMenu.xml
+END
+accessPreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/99/branches/k2/resources/xml/accessPreferences.xml
+END
+widgetPreferences_linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/99/branches/k2/resources/xml/widgetPreferences_linux.xml
+END
+widgetPreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/99/branches/k2/resources/xml/widgetPreferences.xml
+END
+engine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/branches/k2/resources/xml/engine.xml
+END
+enginePreferences_linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/99/branches/k2/resources/xml/enginePreferences_linux.xml
+END
+defaultKludgets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/99/branches/k2/resources/xml/defaultKludgets.xml
+END
+enginePreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/99/branches/k2/resources/xml/enginePreferences.xml
+END

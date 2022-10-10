@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers
+END
+disk.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/disk.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/mem.h
+END
+net.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/net.cpp
+END
+bat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/bat.cpp
+END
+perfmon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/perfmon.cpp
+END
+cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/cpu.cpp
+END
+data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/data.cpp
+END
+disk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/disk.cpp
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/net.h
+END
+perfmon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/perfmon.h
+END
+bat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/bat.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/cpu.h
+END
+mem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/mem.cpp
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/99/branches/k2/Plugins/iStatNanoPlugin/dataminers/data.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/71/trunk/resources/xml
+END
+accessPreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/resources/xml/accessPreferences.xml
+END
+widgetPreferences_linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/trunk/resources/xml/widgetPreferences_linux.xml
+END
+widgetPreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/resources/xml/widgetPreferences.xml
+END
+engine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/resources/xml/engine.xml
+END
+enginePreferences_linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/resources/xml/enginePreferences_linux.xml
+END
+defaultKludgets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/resources/xml/defaultKludgets.xml
+END
+enginePreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/trunk/resources/xml/enginePreferences.xml
+END
+widgetContextMenu_linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/resources/xml/widgetContextMenu_linux.xml
+END
+widgetContextMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/71/trunk/resources/xml/widgetContextMenu.xml
+END

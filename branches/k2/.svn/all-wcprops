@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/99/branches/k2
+END
+klog.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/99/branches/k2/klog.h
+END
+knetwork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/branches/k2/knetwork.cpp
+END
+kpluginview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/branches/k2/kpluginview.cpp
+END
+ksystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/ksystem.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/99/branches/k2/config.h
+END
+kludgetinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/branches/k2/kludgetinfo.cpp
+END
+klocalefilelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/99/branches/k2/klocalefilelist.h
+END
+khotkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/khotkey.cpp
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/license.txt
+END
+ksettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/ksettings.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/99/branches/k2/main.cpp
+END
+prefwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/99/branches/k2/prefwindow.cpp
+END
+kserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kserver.h
+END
+kludget.ico
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/kludget.ico
+END
+kpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kpage.cpp
+END
+kwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kwindow.h
+END
+khudwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/branches/k2/khudwindow.h
+END
+kutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kutil.cpp
+END
+kclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/kclient.cpp
+END
+kview.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/99/branches/k2/kview.h
+END
+kipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/99/branches/k2/kipc.h
+END
+klog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/99/branches/k2/klog.cpp
+END
+kdocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/kdocument.h
+END
+ksystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/ksystem.cpp
+END
+Kludgets.pro
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/branches/k2/Kludgets.pro
+END
+kapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/99/branches/k2/kapp.h
+END
+app.rc
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/99/branches/k2/app.rc
+END
+theme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/theme.cpp
+END
+installwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/branches/k2/installwindow.h
+END
+kludget.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kludget.h
+END
+klocalefilelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/branches/k2/klocalefilelist.cpp
+END
+knetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/99/branches/k2/knetwork.h
+END
+kpluginview.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/branches/k2/kpluginview.h
+END
+ksettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/branches/k2/ksettings.cpp
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/branches/k2/resources.qrc
+END
+kludgetinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/branches/k2/kludgetinfo.h
+END
+kserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/kserver.cpp
+END
+kwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/kwindow.cpp
+END
+khotkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/khotkey.h
+END
+khudwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/99/branches/k2/khudwindow.cpp
+END
+kview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kview.cpp
+END
+kipc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/99/branches/k2/kipc.cpp
+END
+prefwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/99/branches/k2/prefwindow.h
+END
+kdocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/branches/k2/kdocument.cpp
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/version.h
+END
+kapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/99/branches/k2/kapp.cpp
+END
+kpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/99/branches/k2/kpage.h
+END
+kutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/99/branches/k2/kutil.h
+END
+kclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/branches/k2/kclient.h
+END
+installwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/99/branches/k2/installwindow.cpp
+END
+kludget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/branches/k2/kludget.cpp
+END
